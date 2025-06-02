@@ -152,22 +152,3 @@ This project is licensed under the **MIT License**.
 
 ---
 
-## 🙌 Author
-
-**Aqsa Shah**
-GitHub: [yourusername](https://github.com/yourusername)
-LinkedIn: [yourprofile](https://linkedin.com/in/yourprofile) *(optional)*
-
----
-
-## 💬 Contributions
-
-Feel free to **open issues** or submit **pull requests** for improvements!
-Thank you for checking out the project! 🎉
-
-```
-
----
-
-✅ Let me know if you'd like to update your repo link or need **help with the Flask app code, HTML templates, or CSS**!
-```
